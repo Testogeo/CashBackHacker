@@ -26,5 +26,10 @@ jobs:
       - name: Build with Gradle
         run: ./gradlew test
 
+<<<<<<< HEAD
 # Команда `chmod +x gradlew` делает файл gradlew исполняемым в linux.
 # Команда `./gradlew test` собирает ваш проект и запускает тесты.
+=======
+# Команда `chmod +x gradlew` делает файл gradlew исполняемым в linux. 
+# Команда `./gradlew test` собирает ваш проект и запускает тесты.
+>>>>>>> 005b392895a838a4def11b93d09d530c5c6370a5
